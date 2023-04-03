@@ -30,6 +30,6 @@ emailext body: '''Hello Team,
 Build is done.
 
 LANDMARKTECH''', recipientProviders: [developers(), contributor(), upstreamDevelopers()], subject: 'Build Status', to: 'lara.savage@gmail.com'
-    }
-
-}         
+ }      
+ } 
+ 
